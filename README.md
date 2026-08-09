@@ -42,6 +42,7 @@ Medium/Add-Two-Numbers.md
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/subhashree45/dsa-sync-submissions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/subhashree45/dsa-sync-submissions/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -71,6 +72,7 @@ Medium/Add-Two-Numbers.md
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/subhashree45/dsa-sync-submissions/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/subhashree45/dsa-sync-submissions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
