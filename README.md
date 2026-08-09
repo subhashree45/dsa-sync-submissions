@@ -68,4 +68,12 @@ Medium/Add-Two-Numbers.md
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/subhashree45/dsa-sync-submissions/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/subhashree45/dsa-sync-submissions/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/subhashree45/dsa-sync-submissions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
